@@ -74,3 +74,9 @@ We plan to make the key exchange mechanism post‑quantum secure in future updat
 ## 🤝 Contributing
 
 Issues and pull requests are welcome for fixes, portability improvements, and quality‑of‑life enhancements across platforms.
+
+## 👨‍💻 Author
+
+- **Shubham Gupta** 
+- **Vikas Prajapati** 
+- **Shivani Consul**
